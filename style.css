@@ -1,0 +1,7 @@
+.eror{
+    display: none;
+}
+.show{
+    display: block;
+    color: red;
+}
